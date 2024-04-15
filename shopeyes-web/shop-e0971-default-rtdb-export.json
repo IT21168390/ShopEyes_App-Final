@@ -1,0 +1,296 @@
+{
+  "contacts": {
+    "contactDetails": [
+      "710000000",
+      "000000000"
+    ]
+  },
+  "items": {
+    "-NgmDC0xpHvTr7sQyDbP": {
+      "amount": "",
+      "expireDate": "2023-10-24",
+      "itemCategory": "Fruits",
+      "itemCode": "0001",
+      "itemName": "Mango",
+      "itemNamePart": "Mango",
+      "itemPrice": "150.00",
+      "itemQuantity": "100",
+      "itemSubCategory": "",
+      "keywords": [
+        "Mango  none",
+        "Mango none"
+      ],
+      "unit": "none"
+    },
+    "-NgmDRsAERuO4E5xVzVo": {
+      "amount": "1",
+      "expireDate": "2024-01-20",
+      "itemCategory": "Dairy",
+      "itemCode": "0002",
+      "itemName": "Sugar 1kg",
+      "itemNamePart": "Sugar",
+      "itemPrice": "120.00",
+      "itemQuantity": "100",
+      "itemSubCategory": "Sugar",
+      "keywords": [
+        "Sugar 1 kg",
+        "Sugar 1kg",
+        "Sugar one kg",
+        "Sugar 1 kilogram",
+        "Sugar one kilogram",
+        "Sugar 1 kilo",
+        "Sugar 1 k",
+        "Sugar 1k"
+      ],
+      "unit": "kg"
+    },
+    "-NgmG6KKWAh1v8ZMXoI9": {
+      "amount": "100",
+      "expireDate": "2024-03-09",
+      "itemCategory": "Baby Products",
+      "itemCode": "0004",
+      "itemName": "Baby soap 100g",
+      "itemNamePart": "baby soap",
+      "itemPrice": "150.00",
+      "itemQuantity": "50",
+      "keywords": [
+        "baby soap 100 g",
+        "baby soap 100g",
+        "baby soap one hundred g",
+        "baby soap 100 gram",
+        "baby soap one hundred gram",
+        "baby soap hundred g",
+        "baby soap hundred gram"
+      ],
+      "unit": "g"
+    },
+    "-NgmOFr_ImqtIyjm_6Rg": {
+      "amount": "",
+      "expireDate": "2023-10-22",
+      "itemCategory": "Fruits",
+      "itemCode": "0005",
+      "itemName": "Orange",
+      "itemNamePart": "Orange",
+      "itemPrice": "100.00",
+      "itemQuantity": "20",
+      "itemSubCategory": "",
+      "keywords": [
+        "Orange  none",
+        "Orange none"
+      ],
+      "unit": "none"
+    },
+    "-NgmWTOOCucbQPEwkE1w": {
+      "amount": "",
+      "expireDate": "2024-05-11",
+      "itemCategory": "Stationery",
+      "itemCode": "0006",
+      "itemName": "Atlas Red Pen",
+      "itemNamePart": "Atlas Red Pen",
+      "itemPrice": "30.00",
+      "itemQuantity": "10",
+      "itemSubCategory": "",
+      "keywords": [
+        "Atlas Red Pen  none",
+        "Atlas Red Pen none"
+      ],
+      "unit": "none"
+    },
+    "-NgmWrF3hW2IIsCAesue": {
+      "amount": "100",
+      "expireDate": "2024-08-10",
+      "itemCategory": "Beverages",
+      "itemCode": "0007",
+      "itemName": "Coca-Cola 100ml",
+      "itemNamePart": "Coca-Cola",
+      "itemPrice": "150.00",
+      "itemQuantity": "199",
+      "itemSubCategory": "",
+      "keywords": [
+        "Coca-Cola 100 ml",
+        "Coca-Cola 100ml",
+        "Coca-Cola one hundred ml",
+        "Coca-Cola 100 mililiter",
+        "Coca-Cola one hundred mililiter"
+      ],
+      "unit": "ml"
+    },
+    "-NgmqMwLh5SLlPwq9pWO": {
+      "amount": "",
+      "expireDate": "2023-11-11",
+      "itemCategory": "Fruits",
+      "itemCode": "0009",
+      "itemName": "Apple",
+      "itemNamePart": "Apple",
+      "itemPrice": "200.00",
+      "itemQuantity": "12",
+      "itemSubCategory": "",
+      "keywords": [
+        "Apple  none",
+        "Apple none"
+      ],
+      "unit": "none"
+    }
+  },
+  "navigations": {
+    "-NgXB3yvh-eHbIK7s-8f": {
+      "currentCategory": "Start",
+      "destinationCategory": "Dairy",
+      "navigationDescription": "Go nine steps forward, turn left and go four steps forward. the Dairy rack is on your left side, in front of the cashier."
+    },
+    "-NgXBVZ2Vx2yMYDjJAyx": {
+      "currentCategory": "Start",
+      "destinationCategory": "Fruits",
+      "navigationDescription": "Go fourteen steps forward and the fruit rack is on your left side"
+    },
+    "-NgXCko1quPVDZdJgH4a": {
+      "currentCategory": "Start",
+      "destinationCategory": "Beverages",
+      "navigationDescription": "Go twenty steps forward and the fruit rack is on your left side"
+    },
+    "-NgXCt0J7uhXkK7T-1sd": {
+      "currentCategory": "Start",
+      "destinationCategory": "Baby Products",
+      "navigationDescription": "Go ten steps forward, turn left and go five steps forward. the Baby products rack is on your right side"
+    },
+    "-NgXD0Vj1ghgDBmO6-aw": {
+      "currentCategory": "Dairy",
+      "destinationCategory": "Fruits",
+      "navigationDescription": "Go five steps forward and turn right. the fruit rack is infront of you"
+    },
+    "-NgXD6dfjlnXpM2JVFHl": {
+      "currentCategory": "Dairy",
+      "destinationCategory": "Baby Products",
+      "navigationDescription": "Go five steps forward and turn left. the baby-products rack is infront of you"
+    },
+    "-NgXDER-bBGE-5LCSRcV": {
+      "currentCategory": "Dairy",
+      "destinationCategory": "Stationery",
+      "navigationDescription": "Go twenty steps forward and turn left. the stationery rack is infront of you"
+    },
+    "-NgXDNuzSP2C8XjlAKH3": {
+      "currentCategory": "Dairy",
+      "destinationCategory": "Beverages",
+      "navigationDescription": "Go twenty steps forward and turn right. the Beverages rack is infront of you"
+    },
+    "-NgXDjpym5jS93TnwIDh": {
+      "currentCategory": "Fruits",
+      "destinationCategory": "Dairy",
+      "navigationDescription": "Turn left, go five steps forward, turn right, go five step foward and turn left. the dairy rack is infront of you"
+    },
+    "-NgXDsDe17JPPneF6fHM": {
+      "currentCategory": "Fruits",
+      "destinationCategory": "Beverages",
+      "navigationDescription": "Turn right, go ten steps forward, turn left. the beverage rack is infront of you"
+    },
+    "-NgXDzYJv-oJuiV6nCuU": {
+      "currentCategory": "Fruits",
+      "destinationCategory": "Stationery",
+      "navigationDescription": "Go five steps forward, turn left and go five steps forward, turn right, go two steps and turn left. the stationery rack is on your right side"
+    },
+    "-NgXE892xj9aT40dV7qs": {
+      "currentCategory": "Fruits",
+      "destinationCategory": "Baby Products",
+      "navigationDescription": "Go five steps forward and turn left, go five steps forwards, turn left, go five steps forward and turn turn right. the baby-products rack is infront of you."
+    },
+    "-NgXEIdYO__qk2sMlQnu": {
+      "currentCategory": "Baby Products",
+      "destinationCategory": "Dairy",
+      "navigationDescription": "Turn right, go five steps forward, turn left, go three step foward and turn right. the dairy rack is infront of you"
+    },
+    "-NgXEQSnc6MMP-DS5lSZ": {
+      "currentCategory": "Baby Products",
+      "destinationCategory": "Beverages",
+      "navigationDescription": "Turn left, go three steps forward, turn right, go six steps forward, turn left, go three step forward and turn left. the beverage rack is infront of you"
+    },
+    "-NgXE_qYqkQMLT-Up8J0": {
+      "currentCategory": "Baby Products",
+      "destinationCategory": "Stationery",
+      "navigationDescription": "Turn left, Go eight steps forward, turn right. the stationery rack is infront of you."
+    },
+    "-NgXEh64E08Rs4lBC5Hx": {
+      "currentCategory": "Baby Products",
+      "destinationCategory": "Fruits",
+      "navigationDescription": "Go four steps forward and turn right, go eight steps forward, turn right, go three steps forward and turn turn right. the fruit rack is infront of you."
+    },
+    "-NgXEoo1UKc2t-w24ZWL": {
+      "currentCategory": "Beverages",
+      "destinationCategory": "Dairy",
+      "navigationDescription": "Turn left, go sixteen steps forward, turn right, go four step foward and turn right. the dairy rack is infront of you."
+    },
+    "-NgXEuuZF55Y8xSv3SK6": {
+      "currentCategory": "Beverages",
+      "destinationCategory": "Stationery",
+      "navigationDescription": "Turn right, Go three steps forward, turn left, go eight steps forword, turn left,go two steps forword and turn left. the stationery rack is infront of you.\n"
+    },
+    "-NgXF4W66m7OB5pC0f9h": {
+      "currentCategory": "Beverages",
+      "destinationCategory": "Fruits",
+      "navigationDescription": "Turn left, go seven steps forward and turn right. the fruit rack is infront of you."
+    },
+    "-NgXF9_YVicnL3Wwc7yy": {
+      "currentCategory": "Beverages",
+      "destinationCategory": "Baby Products",
+      "navigationDescription": "Turn left, go three steps forward, turn right, go five steps forward, turn left, go two steps forward and turn left. the baby-products rack is infront of you."
+    },
+    "-NgXFEixGpzr_bmeeOMC": {
+      "currentCategory": "Stationery",
+      "destinationCategory": "Dairy",
+      "navigationDescription": "turn right, go sixteen , turn left, go two steps turn right. the dairy rack is infront of you"
+    },
+    "-NgXFIvwLnyaHJ1zIIXk": {
+      "currentCategory": "Stationery",
+      "destinationCategory": "Baby Products",
+      "navigationDescription": "turn right, go fourteensteps forward , turn left. the baby-products rack is infront of you"
+    },
+    "-NgXFNMSYqgSHNNiFNBF": {
+      "currentCategory": "Stationery",
+      "destinationCategory": "Fruits",
+      "navigationDescription": "turn right, go six  steps forward , turn left, go five steps forward, turn right, go three steps, turn right. the fruit rack is infront of you"
+    },
+    "-NgXFT1nsSKJQFoWodoR": {
+      "currentCategory": "Stationery",
+      "destinationCategory": "Beverages",
+      "navigationDescription": "Turn left, go three steps forward, turn right, go five steps forward, turn rignt, go two steps forward.and turn right. the beverages rack is infront of you."
+    },
+    "-Ngc2k1tT5dWGVB_TwVY": {
+      "currentCategory": "Start",
+      "destinationCategory": "Stationery",
+      "navigationDescription": "Go nineteen steps forward, turn left and go five steps forward. Go five steps forward. the Dairy rack is on your left side."
+    },
+    "-Ngc5HrFaNHpn2rd8L6p": {
+      "currentCategory": "Fruits",
+      "destinationCategory": "Start",
+      "navigationDescription": "Turn Left, Go fourteen steps forward, The entrance is there."
+    },
+    "-Ngc5LrClqMEH3xlNimT": {
+      "currentCategory": "Baby Products",
+      "destinationCategory": "Start",
+      "navigationDescription": "Go five steps forward, turn left and go five steps forward. the Dairy rack is on your left side, infront of the cashier."
+    },
+    "-Ngc5V3Yn8ptL59BoMjB": {
+      "currentCategory": "Beverages",
+      "destinationCategory": "Start",
+      "navigationDescription": "Go five steps forward, turn left and go five steps forward. the Dairy rack is on your left side, infront of the cashier."
+    },
+    "-Ngc5dAOm541PZEBnj29": {
+      "currentCategory": "Stationery",
+      "destinationCategory": "Start",
+      "navigationDescription": "Go five steps forward, turn left and go five steps forward. the Dairy rack is on your left side, infront of the cashier."
+    }
+  },
+  "users": {
+    "-Nggmx0xlCrbwiI2bokI": {
+      "email": "abc@gmail.com",
+      "password": "1234$%^&",
+      "uid": "3b7VfAg9OJYOFAOTGJhZ9pyFMcn2",
+      "username": "abc"
+    },
+    "-NgmqemdiGve5TkrHMFP": {
+      "email": "saranga@gmail.com",
+      "password": "1234$%^&",
+      "uid": "27UqYawMmSPZTurXRTaPPzpXDtl2",
+      "username": "Saranga"
+    }
+  }
+}
